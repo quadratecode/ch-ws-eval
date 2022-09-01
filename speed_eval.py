@@ -110,7 +110,7 @@ def main():
     plz = case_data["plz"]
 
     # Define db
-    db = "eledmg_data_ch.sqlite"
+    db = "ch_ws_db.sqlite"
 
     # Connect to db
     cnx = sqlite3.connect(db)

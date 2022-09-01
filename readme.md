@@ -1,6 +1,10 @@
 # About
 
-A simple prototype to request wind speeds from the database residing in [this repo](https://github.com/quadratecode/eledmg-db). Made with [PyWebIO](https://github.com/pywebio/PyWebIO).
+A simple web app to request wind speeds from the database residing in [this repo](https://github.com/quadratecode/eledmg-db) and evaluate them against regulatory guidelines. Made with [PyWebIO](https://github.com/pywebio/PyWebIO).
+
+# Disclaimer
+
+This is a prototype, results are inaccurate and should not be relied upon. NOT FOR PRODUCTION USE.
 
 # Get started
 
