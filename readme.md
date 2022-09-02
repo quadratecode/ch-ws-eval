@@ -19,7 +19,7 @@ python3 db_crawler.py
 ```
 Start PyWebIO app:
 ```
-python3 eledmg_checker.py
+python3 speed_eval.py
 ```
 
 # Sources
