@@ -227,6 +227,7 @@ def main():
         station.append(max_1s[0][0])
 
     # Close db connection
+    # Make sure db is updated manually or via cron
     cnx.close()
 
     # --- OUTPUT VISUALIZATION - GATHER DATA --- #
